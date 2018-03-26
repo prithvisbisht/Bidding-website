@@ -1,0 +1,83 @@
+.logo{
+  width: 150px;
+  text-align: center;
+
+}
+
+.bgimage{
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#login{
+        padding-top:30px;
+        opacity: .7;
+}
+#login:hover{
+        padding-top:30px;
+        opacity: 1;
+}
+#upload{
+        padding-top:30px;
+        opacity: .7;
+}
+#upload:hover{
+        padding-top:30px;
+        opacity: 1;
+}
+#register1{
+        padding-top:30px;
+        opacity: .56;
+}
+#register1:hover{
+        padding-top:30px;
+        opacity: 1;
+}
+#forget{
+        padding-top:30px;
+        opacity: .56;
+}
+#forget:hover{
+        padding-top:30px;
+        opacity: 1;
+}
+fieldset{
+	padding: 30px 5px;
+}
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+.show_image{
+  height: 300px;
+  width: 300px;
+}
+.division{
+  border: 10px;
+}
+.boximage{
+  height: 300px;
+  width: 300px;
+}
+.boximage:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.polaroid {
+  width: 70%;
+  background-color: transparent;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.container {
+  padding: 10px 20px;
+}
+
+.ab{
+  padding: 90px;
+}
